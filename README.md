@@ -20,4 +20,4 @@ img2 = cv2.imread('test/2.jpg')
 flow = of.getflow(img1, img2)
 ```
 
-You can check the [wiki docs](https://github.com/gongpx20069/OpticFlow/wiki/Quick-start).  for specific methods!
+You can check the [wiki docs](https://github.com/gongpx20069/OpticFlow/wiki/Quick-start) for specific methods!

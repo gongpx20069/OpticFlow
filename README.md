@@ -21,3 +21,8 @@ flow = of.getflow(img1, img2)
 ```
 
 You can check the [wiki docs](https://github.com/gongpx20069/OpticFlow/wiki/Quick-start) for specific methods!
+
+# Compatible with Pytorch
+
+In the quick start section, all of our data structures are based on numpy. In this chapter, we mainly make the data structure compatible with Pytorch and develop more functions.
+You can check the [wiki docs](https://github.com/gongpx20069/OpticFlow/wiki/Compatible-with-Pytorch) for specific methods!

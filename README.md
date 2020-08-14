@@ -3,7 +3,11 @@ This is a code base for optical flow estimation using Python language, integrati
 # Dependency Library
 
 - Opencv: ```pip3 install opencv-python```
-- opencv-contrib: ```pip3 install opencv-contrib-python==3.3.0.10```
+- opencv-contrib: 
+```
+pip3 install opencv-contrib-python==3.3.0.10
+pip3 install opencv-contrib-python==3.4.2.16
+```
 
 # How to use the script
 
